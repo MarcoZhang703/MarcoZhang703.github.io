@@ -4,7 +4,7 @@ title:      从一道网易面试题浅谈 Tagged Pointer
 subtitle:   浅谈 Tagged Pointer
 date:       2018-12-26
 author:     Marco
-header-img: img/home-bg.jpg.jpg
+header-img: img/home-bg.jpg
 catalog: true
 tags:
     - iOS
