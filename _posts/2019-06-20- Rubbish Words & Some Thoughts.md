@@ -4,7 +4,7 @@ title:      Rubbish Words & Some Thoughts
 subtitle:   胡乱写一点......
 date:       2019-06-20
 author:     Marco Zhang
-header-img: img/post-bg-cook.jpg
+header-img: img/home-bg.jpg.jpg
 catalog: true
 tags:
     - words
