@@ -93,7 +93,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Github",
+        title: "GitHub",
         href: "http://github.com/MarcoZhang703"
     },{
         title: "Lib_SCAU",
