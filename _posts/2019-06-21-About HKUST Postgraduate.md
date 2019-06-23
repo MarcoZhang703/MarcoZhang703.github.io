@@ -133,4 +133,4 @@ C文书写作。**
 https://www.zhihu.com/question/21666317/answer/18928398
 
 **测试图片上传功能**
-![picture](img/404-bg.jpg)
+![picture](https://github.com/MarcoZhang703/MarcoZhang703.github.io/raw/master/img/404-bg.jpg)
