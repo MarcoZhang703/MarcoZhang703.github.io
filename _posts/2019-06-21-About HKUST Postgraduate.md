@@ -63,8 +63,8 @@ TOEFL iBT: 100(Writing: 27 /30)
 
 **3) grading system**
 这个是评估你水平的重要材料,一般就在成绩单背面,如果没有,就要找教务处开这个证明。
-grading systen大概是这样的:
-优(excellent)—90-100、良(good)—80-89、中(average)-70-79、及格(pass)—60-69、不及格(fai)0-59
+grading system大概是这样的:
+优(Excellent)—90-100、良(Good)—80-89、中(Average)-70-79、及格(Pass)—60-69、不及格(Fail)0-59
 
 **4)语言成绩证明**
 TOEFL or IELTS。
